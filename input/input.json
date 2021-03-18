@@ -1,0 +1,19 @@
+{
+  "languages": [
+   {
+      "Naam":"JSON",
+      "Type":"Gegevensuitwisselingsformaat",
+      "isProgrammeertaal":false,
+      "Zie_ook":[
+         "XML",
+         "ASN.1"
+      ]
+   },
+   {
+      "Naam":"JavaScript",
+      "Type":"Programmeertaal",
+      "isProgrammeertaal":true,
+      "Jaar":1995
+   }
+  ]
+}

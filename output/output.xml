@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <languages>
+    <Type>Gegevensuitwisselingsformaat</Type>
+    <Naam>JSON</Naam>
+    <Zie_ook>XML</Zie_ook>
+    <Zie_ook>ASN.1</Zie_ook>
+    <isProgrammeertaal>false</isProgrammeertaal>
+  </languages>
+  <languages>
+    <Type>Programmeertaal</Type>
+    <Naam>JavaScript</Naam>
+    <Jaar>1995</Jaar>
+    <isProgrammeertaal>true</isProgrammeertaal>
+  </languages>
+</root>
